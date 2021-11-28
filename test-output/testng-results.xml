@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="4234" started-at="2021-11-27T04:15:57Z" finished-at="2021-11-27T04:16:01Z">
+  <suite name="Suite" duration-ms="11080" started-at="2021-11-28T07:14:33Z" finished-at="2021-11-28T07:14:44Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="4234" started-at="2021-11-27T04:15:57Z" finished-at="2021-11-27T04:16:01Z">
-      <class name="testng.LoginTest">
-        <test-method status="PASS" signature="test1()[pri:0, instance:testng.LoginTest@5ed828d]" name="test1" duration-ms="4209" started-at="2021-11-27T04:15:57Z" finished-at="2021-11-27T04:16:01Z">
+    <test name="Test" duration-ms="11080" started-at="2021-11-28T07:14:33Z" finished-at="2021-11-28T07:14:44Z">
+      <class name="grid.GridTest">
+        <test-method status="PASS" signature="test2()[pri:0, instance:grid.GridTest@7a3d45bd]" name="test2" duration-ms="11057" started-at="2021-11-28T07:14:33Z" finished-at="2021-11-28T07:14:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:grid.GridTest@7a3d45bd]" name="test1" duration-ms="5562" started-at="2021-11-28T07:14:33Z" finished-at="2021-11-28T07:14:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-      </class> <!-- testng.LoginTest -->
+      </class> <!-- grid.GridTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

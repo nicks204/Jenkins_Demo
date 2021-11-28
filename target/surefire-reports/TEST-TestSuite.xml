@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="4.471" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="5.49" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
     <property name="file.encoding.pkg" value="sun.io"/>
@@ -17,7 +17,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64"/>
-    <property name="sun.java.command" value="/home/nikunjshah204gm/eclipse-workspace/Jenkins_Demo/target/surefire/surefirebooter6581811057482207838.jar /home/nikunjshah204gm/eclipse-workspace/Jenkins_Demo/target/surefire 2021-11-27T06-43-02_683-jvmRun1 surefire7628151276417958489tmp surefire_03905913505535428440tmp"/>
+    <property name="sun.java.command" value="/home/nikunjshah204gm/eclipse-workspace/Jenkins_Demo/target/surefire/surefirebooter5041576349538422558.jar /home/nikunjshah204gm/eclipse-workspace/Jenkins_Demo/target/surefire 2021-11-28T06-43-03_320-jvmRun1 surefire6906269415723102175tmp surefire_01108589123904428307tmp"/>
     <property name="surefire.test.class.path" value="/home/nikunjshah204gm/eclipse-workspace/Jenkins_Demo/target/test-classes:/home/nikunjshah204gm/eclipse-workspace/Jenkins_Demo/target/classes:/home/nikunjshah204gm/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/home/nikunjshah204gm/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/home/nikunjshah204gm/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/home/nikunjshah204gm/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/home/nikunjshah204gm/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/home/nikunjshah204gm/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/home/nikunjshah204gm/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/home/nikunjshah204gm/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/home/nikunjshah204gm/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/home/nikunjshah204gm/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/home/nikunjshah204gm/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/home/nikunjshah204gm/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/home/nikunjshah204gm/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/home/nikunjshah204gm/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/home/nikunjshah204gm/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/home/nikunjshah204gm/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/home/nikunjshah204gm/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/home/nikunjshah204gm/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/home/nikunjshah204gm/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/home/nikunjshah204gm/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:/home/nikunjshah204gm/.m2/repository/org/testng/testng/6.14.3/testng-6.14.3.jar:/home/nikunjshah204gm/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/home/nikunjshah204gm/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/home/nikunjshah204gm"/>
@@ -30,7 +30,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/nikunjshah204gm/eclipse-workspace/Jenkins_Demo/target/surefire/surefirebooter6581811057482207838.jar"/>
+    <property name="surefire.real.class.path" value="/home/nikunjshah204gm/eclipse-workspace/Jenkins_Demo/target/surefire/surefirebooter5041576349538422558.jar"/>
     <property name="sun.boot.class.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="1.8.0_265-8u265-b01-0ubuntu2~16.04-b01"/>
@@ -58,14 +58,14 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="test1" classname="testng.LoginTest" time="3.917">
+  <testcase name="test1" classname="testng.LoginTest" time="4.95">
     <system-out><![CDATA[[TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >" at the top of your file, otherwise TestNG may fail or not work as expected.
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 3865
+    <system-err><![CDATA[Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 7730
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Nov 27, 2021 6:43:04 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+Nov 28, 2021 6:43:05 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>
